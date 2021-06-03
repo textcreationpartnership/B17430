@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prelacie is miserie, or, The suppressing of prelaticall government and establishing of provintiall and nationall sinods is a hopefull meanes to make a flourishing church and a happie kingdome</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17430</idno><idno type="EEBO-CITATION">19679962</idno>
+  <idno type="VID">205580</idno>
+  <idno type="EEBO-PROQUEST">2240856785</idno>
+  
+            <idno type="STC">Wing B465A</idno>
+            <idno type="OCLC">19679962</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1696:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prelacie is miserie, or, The suppressing of prelaticall government and establishing of provintiall and nationall sinods is a hopefull meanes to make a flourishing church and a happie kingdome</title>
+                  <author>Baillie, Robert, 1599-1662.</author>
+               </titleStmt>
+               <extent>[2], 4 [i.e. 10] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] imprinted :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Robert Baillie by Wing.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Errors in paging: pages 9 and 10 misnumbered 5 and 4.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Bishops --  Controversial literature.</term>
+               <term type="topical_term">Episcopacy --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205580:1"/>
+            <pb facs="tcp:205580:1"/>
+            <p>PRELACIE IS MISERIE: OR, THE SVPPRESSING OF PRELATICALL GOVERMENT and establishing of Provintiall, and nati<g ref="char:EOLhyphen"/>onall Sinods, is a hopefull meanes to make a flourishing Church, and hap<g ref="char:EOLhyphen"/>pie Kingdome.</p>
+            <p>Imprinted for a good intent, After Chrismas before Lent: 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:205580:2"/>
+            <pb facs="tcp:205580:2"/>
+            <head>PRELACIE IS MISERIE.</head>
+            <head type="sub">
+               <hi>PRelaticall Government is the Churches Ruine and Misery.</hi>
+            </head>
+            <p>
+               <label>The Argument.</label>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>The Argu<g ref="char:EOLhyphen"/>ment.</hi>
+               </note> THat Goverment whereby Herisies, Prophanines, Idolatry, and Super<g ref="char:EOLhyphen"/>stitions, hath great opprotunitie to creepe into the Church? is the Ruine and Misery of any Church, Nation, or Kingdome: But Prelaticall Gover<g ref="char:EOLhyphen"/>verment gives great opportunity for Herisies, Prophannesse, Idolatry, and superstition to creepe into the Church; <note place="margin">
+                  <hi>Conclusion.</hi>
+               </note> therefore Prelaticall goverment is the Churches Ruine and Mi<g ref="char:EOLhyphen"/>sery.</p>
+            <p>First, to prove that that Goverment whereby herisies, prophanennesse, Idolatrie, &amp; superstiti<g ref="char:EOLhyphen"/>on, hath great opportunity to creepe into the
+<pb n="2" facs="tcp:205580:3"/>Church is the Ruine and Misery of the Church Nation, or Kingdome; The Prophet <hi>Isay</hi> saith The Ancient and Honorable man, he is the head and the Prophet that teacheth lies, hee is the taile: for the leaders of the people cause them to erre, and they that are led by them are devou<g ref="char:EOLhyphen"/>red, <hi>Jsay</hi> 9.15, 16. And <hi>Solomon</hi> saith, that lu<g ref="char:EOLhyphen"/>stice exalteth a Nation, but sinne is a shame to to the people, <hi>Prov.</hi> 14.34. And the Prophet <hi>Hosea</hi> saith, Heare the word of the Lord ye chil<g ref="char:EOLhyphen"/>dren of <hi>Israel,</hi> for the Lord hath a controversie with the Inhabitants of the land, because there is no Truth, nor Mercy, nor knowledge of God in the Land; by swearing, and lying, &amp;c. <hi>Hosea</hi> 1.2. Therefore (saith the Lord) shalt thou fall in the day, and the Prophet shall fall with thee in the night, and I will destroy thee, <hi>verse</hi> 5. There<g ref="char:EOLhyphen"/>fore saith <hi>Constantine</hi> (writing to the <hi>Nicomedi<g ref="char:EOLhyphen"/>ans</hi>) <note place="margin">
+                  <hi>Theodorus in his first book. Chap.</hi> 19.</note> if saith he, there bee any Bishop which is inflamed to continue Herisies, his presumption shall presently be corrected.</p>
+            <p>Secondly, to prove that Prelaticall gover<g ref="char:EOLhyphen"/>ment gives so great an opportunity for Herisies, Prophannesse, Idolaty, and Superstitions to creepe into Church, I lay downe these two grounds. First in regard of the Prelates them<g ref="char:EOLhyphen"/>selves. Secondly, in regard of the Church.</p>
+            <p n="1">1. In regard of themselves, whose calling is but an usurpation, and such as is no waies war<g ref="char:EOLhyphen"/>rantable nor lawfull, but contrary both to the lawes of God, the patterne of the Apostles, the Primative Churches, and also the custome of our latter reformed Churches.</p>
+            <pb n="3" facs="tcp:205580:3"/>
+            <p>It is an unbecomming thing for a Minister to be lifted up into places of worldly Honours and dignities, whose office it is in all humility to Preach the Gospel of Christ, and to set the King<g ref="char:EOLhyphen"/>dome of Heaven as a marke before him, and not like those Lordly Bishops who whine after Lordships, and Earldomes, and Kingdomes, here on earth; which our Saviour Iesus Christ for<g ref="char:EOLhyphen"/>biddeth, marke Saint <hi>Paul</hi> setts forth the true approved Ministers of God not to bee such as lift themselves up as Lords; but such as like the faithfull servants and Ministers of Christ, are faithfull Preachers and disposers of his holy word, 1 <hi>Cor.</hi> 4.1.2. And let our Lordly Bishops pleade for Episcopacie as much as they will. S. <hi>Gregory</hi> saith plainey, <note place="margin">
+                  <hi>In his</hi> 4.38. <hi>chap.</hi>
+               </note> that hee who shall have a guard of Priests to attend upon him is Anti<g ref="char:EOLhyphen"/>christ.</p>
+            <p n="2">2. In regard of the Church, our Lordly Bi<g ref="char:EOLhyphen"/>shops being so willing to bee taken from their calling of teaching, &amp; instructing of their flocks; upon whose charge the cure of their soules doth lie: which made Saint <hi>Paul</hi> to call to minde that woe which lieth on those Ministers who forbeare to Preach the Gospel, no he will not forbeare to Preach in regard of that necessity which is layd upon them; not looking, and labouring for the things which are seene, but for the things which are not seene, 2 <hi>Cor.</hi> 14.18. What can wee ex<g ref="char:EOLhyphen"/>pect then, but that our Prelates will bee ready to entertaine any Heresie, prophannesse, idolatrie, or superstition, so they be established in their usur<g ref="char:EOLhyphen"/>ped
+<pb n="4" facs="tcp:205580:4"/>Seas, or addeth profit to their estates and Earledomes: of whom <hi>Cornelius Brittoto</hi> saith, would God (saith he) <note place="margin">
+                  <hi>In the Chap. of Trident.</hi>
+               </note> they would not goe whol<g ref="char:EOLhyphen"/>ly with generall consent from religion to super<g ref="char:EOLhyphen"/>stition; from Faith to Infidility, from God to perjury, for they all songht their owne, and not for the things which pertaine to Iesus Christ.</p>
+            <p>
+               <note place="margin">
+                  <hi>Reason.</hi>
+               </note> The Reason which Prelaticall, or Lordly go<g ref="char:EOLhyphen"/>verment of the Bishops, is the ruine and misery of the Church, is plaine; because by their go<g ref="char:EOLhyphen"/>verment Heresies, Prophannesse, Idolaty, and Superstition hath great meanes and opportunity to creepe into the Church, and that I shall make plaine to be true, as may appeare by the woefull experience of the Churches under them.</p>
+            <p n="1">I. If the Bishop himselfe of any Diocesse bee infected with any Heresie, Prophannesse, Idola<g ref="char:EOLhyphen"/>try, or Superstition, to binde the consciences of men to mens traditions, to give liberty to pro<g ref="char:EOLhyphen"/>phane the holy Sabboth: bee given to bowings and superstitious seremonies, to have Alters and Images in the Church, &amp;c. What shall we think will bee his dealing with those Churches within his Diocesse? The holy people of the Lord see these things, and are grieved to see them, but they know not what course to take to reforme them.</p>
+            <p n="1">1. If they complaine at the Visitation, they doe but like birds, runne among limetwigges: and in stead of reforming the Church, hamper themselves into troubles.</p>
+            <p n="2">2. Secondly, if they complaine to the Mini<g ref="char:EOLhyphen"/>ster of the Parish, either hee is one that will bee
+<pb n="5" facs="tcp:205580:4"/>ready to defend it, or if hee be an honest Minister that would gladly see these things reformed: yet he dares not speake for feare of suspention; or if he doe complaine, he is silenced, if not suspen<g ref="char:EOLhyphen"/>ded <hi>Ipse facto;</hi> yea it may be, and loose his eares for his labour too.</p>
+            <p n="3">3. If they complaine to the Magestrate, hee dares not meddle with it to goe about any refor<g ref="char:EOLhyphen"/>mation, because hee will say it belongs to the Church: Oh what a misery is this for any Church to be under such goverment where shee is constrained thus to bewaile her woefull mise<g ref="char:EOLhyphen"/>rie and cannot be reformed.</p>
+            <p n="2">II. Those Ministers who are under any Bishops Diocesse, have their mouthes so stopped by their Lordly Prelate; that they dare not reprove any Heresie, Idolaty, or wickednesse, which the Bi<g ref="char:EOLhyphen"/>shop doth either practise in himselfe, or favour in others.</p>
+            <p n="3">III. If any Heresie bee in the Church, any Drunkard, Horemonger, or Papist that can but get into the Bishops favour, either by bribes or friends, or any other way: then may such pro<g ref="char:EOLhyphen"/>phane persons still abide, and goe on from time to time in their filthinesse without controule<g ref="char:EOLhyphen"/>ment: and thus the corrupting of one Lordly Prelate is the misery of all the other Churches under him.</p>
+            <p>Can not (not onely Lordly Bishops amongst the <hi>Iewes,</hi> and in <hi>Germany, Cullen, Mense,</hi> with many others, but also) those of our owne Nati<g ref="char:EOLhyphen"/>on bee a testimony herein, under whose tiranni<g ref="char:EOLhyphen"/>call
+<pb n="6" facs="tcp:205580:5"/>Hierarchical goverment many faithful paine<g ref="char:EOLhyphen"/>full Ministers have beene silenced, and punished, and some imprisoned, some suspended, others dyed in Prison, others having their members taken from them, &amp;c. But Drunkards, Hereticks, prophaners of Gods holy Sabboth; Idolaters, Adulterers, and the like such as these: not so much as once called to any accompt for these things? no, the puritanicall Priests as they call them, they are the men they would roote out, that so their kingdome of darkenesse might flo<g ref="char:EOLhyphen"/>rish; But the Lord saith by the Prophet <hi>Hosea,</hi> O ye Priests heare this (saith the Lord) and har<g ref="char:EOLhyphen"/>ken, yea house of Israel, and give ye eare O house of the King, for Judgement is towards you, because you have beene a snare on <hi>Mispah,</hi> and a net spread upon <hi>Tabor, Hosea</hi> 5.1. and such snares have the Prelates laide for the people of God; these are they saith Saint <hi>Austin</hi>
+               <note place="margin">
+                  <hi>In his</hi> 119. <hi>Booke.</hi>
+               </note> who with severall burthens, doe so oppresse our Religion, (which God of his mercy would have to be free under few and manifest Sacraments of Divine Service) in so much that the state of the <hi>Iewes</hi> is more tollerable, for their burdens were under the law of God, but these burthens are under the devises and presumptions of men.</p>
+            <p>
+               <hi>Object.</hi> You will say it may bee? how shall the Church then be governed? shall the Church be without goverment?</p>
+            <p>
+               <hi>Answ.</hi> No, the Church of God hath a go<g ref="char:EOLhyphen"/>vernour, Jesus Christ the head of the Church? and under Christ; wee have our gratious King,
+<pb n="7" facs="tcp:205580:5"/>who is governour of all persons, and causes both Ecclesiasticall, and sivill next under Christ, within these his Dominions.</p>
+            <p>
+               <hi>Object.</hi> But what meanes may then be used for the discoverie of Heresies, and the rooting out of Idolatrie out of the Church: shall every Mi<g ref="char:EOLhyphen"/>nister teach freely any thing, whatsoever en<g ref="char:EOLhyphen"/>treth into his fancy, and shall their be no Church goverment from the Clargie at all?</p>
+            <p>
+               <hi>Answ.</hi> There is better meanes then to have it governed by Prelates, and that according both to the Primative Churchs, and also to the best approved late reformed Churches.</p>
+            <p n="1">I. For every flocke there may bee chosen a Presbiter, as the truth is, the office of a Bishop is no more; this Presbiter or Bishop set over only one perticular flocke; being chosen with an unamimous consent of the people, after proofe being made of him; and hee placed there takes to himselfe the charge of the cure of those soules, and any He<g ref="char:EOLhyphen"/>resie, prophannesse, or Idolatry, or any such like evills which helseeth to offer to creepe into the Church, hee may roote it out and suppresse it; and not be feared by any one perticular Prelate ruling Lordly over him, but sincerely to serve the Lord Christ.</p>
+            <p n="2">II. Least some corruption should bee in the Presbitor, so that these evills are passed by, and are not reformed; there may be a Provintiall Sy<g ref="char:EOLhyphen"/>nod, to reforme what the Presbitor either could not, or would not; unto which Synod may e<g ref="char:EOLhyphen"/>very
+<pb n="8" facs="tcp:205580:6"/>Presbiter give an accompt conserning all matters committed to his chare; and that there they may be further treated on and examined a<g ref="char:EOLhyphen"/>mongst them altogether.</p>
+            <p n="3">III. There may bee a Nationall Synod also kept at severall times, as shall bee thought meete for the publicke unitie of the Church, and for the reforming of those evills and enconvenien<g ref="char:EOLhyphen"/>ces which the Presbiter or Provintiall Synod shall escape.</p>
+            <p>Let any man now consider if it bee not more happie for the Church to have Sinods, then to be ruled by Prelates? and what happinesse may come by the one, and what evill by the other.</p>
+            <p>Many are the abuses in the Prelates gover<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="1">1. They would seclude the Nobles, the Gen<g ref="char:EOLhyphen"/>try, and both the Houses of Parliament from having any right to meddle in Church matters.</p>
+            <p n="2">2. They Lordly exalt themselves above other Ministers, contrary to the command of Christ, and the Doctrine of the Apostles.</p>
+            <p n="3">3. Their Decrees tend to their owne ends, and not to Gods Glory.</p>
+            <p n="4">4. They have corrupted Courts.</p>
+            <p n="5">5. They neglect their Studies, and Preaching, to follow matters of State.</p>
+            <p n="6">6. They labour to compell men to sweare rash and unlawfull oathes.</p>
+            <p n="7">7. They live in the pompe and glory of the world.</p>
+            <p n="8">8. They labour to bring in Popish Seremo<g ref="char:EOLhyphen"/>nies into the Church.</p>
+            <pb n="5" facs="tcp:205580:6"/>
+            <p n="9">9. They make a gaine of such things, as even by their usurped Hierarchy, they ought not to take money for; with many other abuses too tedious to recon up in so short a volume: all which might by Synods be prevented, there be<g ref="char:EOLhyphen"/>ing no Lordly Bishops, save onely the Presbitors themselves, being all equall.</p>
+            <p>
+               <hi>Calvin</hi> saith, <note place="margin">
+                  <hi>On Epist. to Titus. Jn his instiu.</hi>
+               </note> that a Priest a and Bishop are all one; as saith Saint <hi>Hierom.</hi> Churches were be<g ref="char:EOLhyphen"/>fore governed by common Councells of Elders, afterwards the care was committed to one man appointed by men; so that the Bishops are above the Priests, rather by custome then by the truth of the Lords disposing, and they ought to go<g ref="char:EOLhyphen"/>verne the Church saith he in common together; this is the true and ancient custome of the Prima<g ref="char:EOLhyphen"/>tive Church, and the chusing of a Bishop was no waies entended at the first for any Lordly Hier, archy as the Prelates now use it; whose pompe is growne to so great an height.</p>
+            <p>An example of their pride wee have in that Pope who set the Painter at worke in his gallery to draw the pictures of <hi>Peter</hi> and <hi>Paul,</hi> who ha<g ref="char:EOLhyphen"/>ving painted their faces blushing red, the Pope comming in to see his worke, and asking him if <hi>Peter</hi> and <hi>Paul</hi> had such red faces, because hee had so painted them; no quoth he, but if they were here now, and did behold what a glorious rich and magnificent successor they have, they would blush as red as now you see these Pictures doe, and his holinesse was very well pleased with
+<pb n="4" facs="tcp:205580:7"/>the Painters conceit, to see himselfe a brave manr man then ever poore <hi>Peter</hi> and <hi>Paul</hi> were, whose successor he boasts himselfe to be, for what else but a sweet fable doth the Pope make of the Gospel as himselfe said, and surely wee cannot thinke that Prelates who are the limbes of this great beasts, are of another spirit then Athiesti<g ref="char:EOLhyphen"/>call, such as the head himselfe is of, and which he hath derived to his members.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
